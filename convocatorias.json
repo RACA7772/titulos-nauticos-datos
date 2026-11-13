@@ -1,0 +1,563 @@
+{
+  "verificado": "2026-11-12",
+  "validado_por_ramon": false,
+  "aviso": "Datos volátiles: cada administración publica su calendario por su cuenta. La app debe mostrar la fecha de verificación y el enlace oficial. Las fechas pasadas se ocultan; los campos null están pendientes de verificar.",
+  "organismos": [
+    {
+      "id": "DGMM",
+      "nombre": "Dirección General de la Marina Mercante (Estado)",
+      "ambito": "Madrid y territorios sin competencia transferida",
+      "sedes": [
+        {
+          "ciudad": "Madrid",
+          "lugar": "Facultad de Derecho, UAM"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-04-18",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ]
+        },
+        {
+          "fecha": "2026-06-27",
+          "titulaciones": [
+            "PNB",
+            "PER"
+          ]
+        },
+        {
+          "fecha": "2026-11-21",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "matricula": [
+            "2026-09-14",
+            "2026-10-21"
+          ]
+        }
+      ],
+      "tasas": {
+        "PNB": 43.53,
+        "PER": 55.98,
+        "PY": 74.63,
+        "CY": 87.1,
+        "nota": "Modelo 790 cód. 077"
+      },
+      "requisitos": [
+        "18 años (16 con consentimiento para PNB)",
+        "PY exige PER y CY exige PY",
+        "No se exige certificado médico para inscribirse"
+      ],
+      "inscripcion": "Matriculación Exprés o presencial (Registro DGMM, Capitanías, Subdelegaciones)",
+      "contacto": "titulosderecreo.dgmm@transportes.gob.es",
+      "fuente": "BOE-A-2026-510",
+      "calendario_2027": null,
+      "url_oficial": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-510"
+    },
+    {
+      "id": "EUSKADI",
+      "nombre": "Gobierno Vasco - Puertos, Asuntos Marítimos y Litoral",
+      "sedes": [
+        {
+          "ciudad": "Irún",
+          "lugar": "FICOBA"
+        },
+        {
+          "ciudad": "Pasai San Pedro",
+          "lugar": "CIFP Blas de Lezo"
+        },
+        {
+          "ciudad": "Barakaldo",
+          "lugar": "BEC"
+        },
+        {
+          "ciudad": "Portugalete",
+          "lugar": "Escuela de Ingeniería de Bilbao"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2027-03-01",
+          "tipo": "teórico",
+          "sedes": [
+            "Irún",
+            "Pasai San Pedro"
+          ],
+          "matricula": [
+            "2027-01-25",
+            "2027-02-12"
+          ]
+        },
+        {
+          "fecha": "2027-05-31",
+          "tipo": "teórico",
+          "sedes": [
+            "Barakaldo",
+            "Portugalete"
+          ],
+          "matricula": [
+            "2027-04-26",
+            "2027-05-14"
+          ]
+        },
+        {
+          "fecha": "2027-06-21",
+          "tipo": "práctico",
+          "matricula": [
+            "2027-06-07",
+            "2027-06-11"
+          ]
+        },
+        {
+          "fecha": "2027-11-01",
+          "tipo": "teórico",
+          "sedes": [
+            "Irún",
+            "Pasai San Pedro"
+          ],
+          "matricula": [
+            "2027-09-20",
+            "2027-10-08"
+          ]
+        }
+      ],
+      "tasas": null,
+      "requisitos": [
+        "DNI/NIE/pasaporte",
+        "Menores con autorización",
+        "PY exige PER y CY exige PY"
+      ],
+      "inscripcion": "Online con pago de tasa",
+      "fuente": "BOPV 2026/4315 (nº 197, 15-10-2026)",
+      "nota": "Fechas exactas se confirman una semana antes en la web del Departamento",
+      "url_oficial": "https://www.euskadi.eus/titulaciones-nauticas-deportivas-2026/web01-a2nekaza/es/"
+    },
+    {
+      "id": "CANARIAS",
+      "nombre": "Gobierno de Canarias - Dirección General de Pesca",
+      "sedes": [
+        {
+          "ciudad": "Las Palmas de Gran Canaria"
+        },
+        {
+          "ciudad": "Santa Cruz de Tenerife"
+        },
+        {
+          "ciudad": "Lanzarote"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-11-14",
+          "titulaciones": [
+            "PNB",
+            "PER"
+          ],
+          "sedes": [
+            "Gran Canaria",
+            "Tenerife"
+          ],
+          "matricula": [
+            "2026-10-05",
+            "2026-10-14"
+          ]
+        }
+      ],
+      "tasas": null,
+      "calendario_2027": null,
+      "fuente": "BOC 2026/013/188",
+      "url_oficial": "https://www.gobiernodecanarias.org/pesca/temas/titulaciones-nauticas/index.html"
+    },
+    {
+      "id": "BALEARES",
+      "nombre": "Govern de les Illes Balears - Puertos y Transporte Marítimo",
+      "sedes": [
+        {
+          "ciudad": "Palma (Mallorca)"
+        },
+        {
+          "ciudad": "Menorca"
+        },
+        {
+          "ciudad": "Eivissa"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-12-11",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "sedes": [
+            "Mallorca"
+          ],
+          "matricula": [
+            "2026-10-13",
+            "2026-10-23"
+          ]
+        },
+        {
+          "fecha": "2026-12-15",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "sedes": [
+            "Menorca",
+            "Eivissa"
+          ],
+          "matricula": [
+            "2026-10-13",
+            "2026-10-23"
+          ]
+        }
+      ],
+      "tasas": null,
+      "requisitos": [
+        "18 años",
+        "Una sola solicitud por convocatoria",
+        "Solo pagar la tasa (modelo 046) no da derecho a examinarse"
+      ],
+      "inscripcion": "Sede electrónica, pestaña «Matrícula exámenes», o Registro de la Dirección General (Palma)",
+      "nota": "El tribunal puede mover fechas; sedes en Menorca/Eivissa si hay al menos 5 inscritos",
+      "fuente": "caib.es/sites/transportmaritim (Calendario de exámenes 2026)",
+      "url_oficial": "https://www.caib.es/sites/transportmaritim/es/calendario_de_examenes_2026/"
+    },
+    {
+      "id": "VALENCIA",
+      "nombre": "Generalitat Valenciana - Costas, Puertos y Aeropuertos",
+      "sedes": [
+        {
+          "ciudad": "Alicante"
+        },
+        {
+          "ciudad": "Castellón"
+        },
+        {
+          "ciudad": "Valencia",
+          "lugar": "UPV (abril 2026)"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PER complementario",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-12-11",
+          "fecha_fin": "2026-12-12",
+          "sedes": [
+            "Valencia"
+          ],
+          "titulaciones": [
+            "PY",
+            "CY",
+            "PER",
+            "PNB"
+          ],
+          "nota": "PY/CY el 11 (viernes), PER/PNB el 12 (sábado). Provincia y matrícula (26–30 oct) según fuente secundaria: confirmar en la resolución",
+          "matricula": [
+            "2026-10-26",
+            "2026-10-30"
+          ]
+        }
+      ],
+      "tasas": null,
+      "requisitos": [
+        "18 años"
+      ],
+      "inscripcion": "Tasa modelo A08",
+      "fuente": "DOGV 2025/48135 y resolución convocatorias 2026",
+      "url_oficial": "https://mediambient.gva.es/documents/20051949/401346870/Resoluci%C3%B3n+convocatorias+2026_firmado.pdf/7e9efa3c-6f4e-e8c5-dfcc-4e1c8223836a"
+    },
+    {
+      "id": "GALICIA",
+      "nombre": "Xunta de Galicia - Consellería do Mar",
+      "sedes": [
+        {
+          "ciudad": "Vigo",
+          "lugar": "Instituto Politécnico Marítimo-Pesqueiro do Atlántico"
+        },
+        {
+          "ciudad": "Ferrol",
+          "lugar": "Escuela Oficial Náutico-Pesquera"
+        },
+        {
+          "ciudad": "Ribeira",
+          "lugar": "Escuela Oficial Náutico-Pesquera"
+        }
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-11-23",
+          "fecha_fin": "2026-11-26",
+          "tipo": "extraordinaria",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "nota": "PNB 23, PER 24, PY 25 (Vigo, Ferrol, Ribeira); CY solo en Vigo (26, fuente secundaria)",
+          "matricula": [
+            "2026-10-09",
+            "2026-10-23"
+          ]
+        }
+      ],
+      "tasas": null,
+      "fuente": "DOG 20 (30-1-2026) exámenes extraordinarios; DOG 36 (24-2-2026) ordinarios",
+      "nota": "Ordinarias 2026: may y sep; extraordinarias: mar, jul, nov",
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "requisitos": [
+        "16 años con consentimiento para PNB; 18 para el resto (resolución de 2018, comprobar la vigente)",
+        "Pago de la tasa dentro del plazo de matrícula"
+      ],
+      "calendario_2027": null,
+      "url_oficial": "https://mar.xunta.gal/es/formacion/informacion-del-alumnado/titulaciones-de-recreo"
+    },
+    {
+      "id": "ANDALUCIA",
+      "nombre": "Junta de Andalucía - Instituto Andaluz del Deporte",
+      "sedes": [
+        {
+          "ciudad": "Puerto Real (Cádiz)"
+        },
+        {
+          "ciudad": "Málaga",
+          "lugar": "Facultad de Derecho, Universidad de Málaga"
+        },
+        {
+          "ciudad": "Sevilla"
+        }
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-11-14",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "matricula": [
+            "2026-07-14",
+            "2026-10-27"
+          ],
+          "nota": "Plazo ampliado hasta el 27-10"
+        }
+      ],
+      "tasas": {
+        "PNB": 53.63,
+        "PER": 53.63,
+        "PY": 72.63,
+        "CY": 90.62,
+        "nota": "Modelo 046, importes 2026"
+      },
+      "fuente": "BOJA 10 (16-1-2026); BOJA 134 (14-7-2026)",
+      "nota": "Tres convocatorias al año (mar, jun, nov), mismas sedes y fechas para los cuatro títulos",
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "inscripcion": "Telemática (con o sin certificado digital) en la web del IAD, con justificante de pago modelo 046",
+      "calendario_2027": null,
+      "url_oficial": "https://www.juntadeandalucia.es/organismos/culturaydeporte/areas/deporte/formacion-investigacion-innovacion/titulaciones-nauticas/paginas/convocatorias-inscripcion.html"
+    },
+    {
+      "id": "ASTURIAS",
+      "nombre": "Principado de Asturias",
+      "sedes": [
+        {
+          "ciudad": "Gijón"
+        }
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2027-01-12",
+          "fecha_fin": "2027-01-14",
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "matricula": [
+            "2026-10-21",
+            "2026-11-06"
+          ],
+          "nota": "Matrícula cerrada; fuente secundaria (BOPA n.º 191)"
+        }
+      ],
+      "tasas": null,
+      "nota": "Dos convocatorias al año (enero y mayo). Confirmar en web del Principado",
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "calendario_2027": "parcial (enero); mayo por publicar",
+      "url_oficial": null,
+      "fuente": "BOPA n.º 191 (2026), vía rumbo38.com"
+    },
+    {
+      "id": "CATALUNYA",
+      "nombre": "Generalitat de Catalunya - Departament d'Agricultura, Ramaderia, Pesca i Alimentació",
+      "sedes": [
+        {
+          "ciudad": "Barcelona"
+        },
+        {
+          "ciudad": "Girona"
+        },
+        {
+          "ciudad": "Tarragona"
+        }
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-12-12",
+          "sedes": [
+            "Barcelona"
+          ],
+          "titulaciones": [
+            "PNB",
+            "PER",
+            "PY",
+            "CY"
+          ],
+          "matricula": [
+            null,
+            "2026-11-25"
+          ],
+          "resultados": "2026-12-22"
+        }
+      ],
+      "tasas": null,
+      "fuente": "Calendario de convocatorias de exámenes teóricos (Departament d'Agricultura), 2026",
+      "nota": "Muchas convocatorias al año; 2026 restante solo el 12-12 (el 7-11 ya pasó)",
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "calendario_2027": null,
+      "url_oficial": "https://agricultura.gencat.cat/web/.content/10-nautica-busseig/nautica-esbarjo/enllacos-documents/convocatories-examens/fitxers-binaris/convocatories-examens-teorics.pdf"
+    },
+    {
+      "id": "MURCIA",
+      "nombre": "Región de Murcia - Dirección General de Litoral y Puertos",
+      "sedes": [
+        {
+          "ciudad": "Murcia"
+        }
+      ],
+      "titulaciones": [
+        "PNB",
+        "PER",
+        "PY",
+        "CY"
+      ],
+      "convocatorias": [
+        {
+          "fecha": "2026-11-21",
+          "fecha_fin": "2026-11-22",
+          "titulaciones": [
+            "PY",
+            "CY",
+            "PER",
+            "PNB"
+          ],
+          "nota": "PY/CY sábado 21; PNB/PER domingo 22",
+          "matricula": [
+            "2026-10-13",
+            "2026-10-28"
+          ]
+        }
+      ],
+      "tasas": null,
+      "calendario_2027": null,
+      "url_oficial": null,
+      "fuente": "BORM n.º 17 (22-1-2026)",
+      "nota": "Tres convocatorias al año (mar, jun, nov); matrícula de noviembre cerrada"
+    },
+    {
+      "id": "CANTABRIA",
+      "nombre": "Gobierno de Cantabria",
+      "sedes": [
+        {
+          "ciudad": "Santander",
+          "lugar": "Centro de Formación Náutico-Pesquera"
+        }
+      ],
+      "convocatorias": null,
+      "tasas": null,
+      "calendario_2027": null,
+      "nota": "2026: febrero y junio (8–12). Sin convocatoria posterior localizada; verificar 2027"
+    },
+    {
+      "id": "CEUTA_MELILLA",
+      "nombre": "Ceuta y Melilla",
+      "sedes": [
+        {
+          "ciudad": "Ceuta"
+        },
+        {
+          "ciudad": "Melilla"
+        }
+      ],
+      "convocatorias": null,
+      "tasas": null,
+      "nota": "Ceuta examinó el 9-10 de mayo de 2026; Melilla sin datos. Verificar 2027"
+    }
+  ]
+}
